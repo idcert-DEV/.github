@@ -37,7 +37,6 @@ Our mission is to create trusted infrastructures for **digital identity**, **com
 ### 🧪 Innovation Partners
 - [Kiracademy](https://kiracademy.it)
 - [PASocial](https://pasocial.info)
-- [Cyber Security Italy Foundation](https://www.cybersecurityitaly.it)
 
 ---
 
