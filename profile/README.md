@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://idcert.io/assets/idcert-labs-banner.png" alt="IDCERT Labs" width="600"/>
+  <img src="https://idcert.io/assets/idcert-labs-banner.png" alt="IDCERT DEV" width="600"/>
 </p>
 
-<h1 align="center">🚀 IDCERT Labs</h1>
+<h1 align="center">🚀 IDCERT DEV</h1>
 <p align="center"><i>Research & Development hub of IDCERT S.r.l. Società Benefit</i></p>
 
 ---
