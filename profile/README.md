@@ -27,6 +27,12 @@ Our mission is to create trusted infrastructures for **digital identity**, **com
 | Platform | Description |
 |-----------|-------------|
 | [**IDCERT.io**](https://idcert.io) | Corporate platform for certifications & digital identity |
+| [**ExplorerHub**](https://explorerhub.io) | |
+| [**DigComp**](https://digcomp.explorerhub.io) | |
+| [**DigCompEdu**](https://digcompedu.explorerhub.io) | |
+| [**GreenComp**](https://greencomp.explorerhub.io) | |
+| [**FinComp**](https://fincomp.explorerhub.io) | |
+| [**LifeComp**](https://lifecomp.explorerhub.io) | |
 | [**Certify**](https://certify.idcert.io) | ISO 17024-compliant certification engine |
 | [**LMS**](https://it.idcert.io) | Learning Management System with SCORM/xAPI support |
 | [**IDGateway**](https://idgateway.idcert.io) | Digital access & authentication platform |
