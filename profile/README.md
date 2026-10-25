@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://idcert.io/assets/idcert-labs-banner.png" alt="IDCERT Labs" width="600"/>
+  <img src="./assets/idcert-logo.png" alt="IDCERT" width="300"/>
 </p>
 
 <h1 align="center">🚀 IDCERT Labs</h1>
@@ -56,6 +56,6 @@ Our mission is to create trusted infrastructures for **digital identity**, **com
 ---
 
 <p align="center">
-  <sub>© 2025 IDCERT S.r.l. Società Benefit — All rights reserved.</sub>
+  <sub>© 2025–2026 IDCERT S.r.l. Società Benefit — All rights reserved.</sub>
 </p>
 
